@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7673" started-at="2019-11-20T07:09:29Z" finished-at="2019-11-20T07:09:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7673" started-at="2019-11-20T07:09:29Z" finished-at="2019-11-20T07:09:37Z">
+      <class name="com.request.GetCall">
+        <test-method status="PASS" signature="get()[pri:0, instance:com.request.GetCall@457e2f02]" name="get" duration-ms="7601" started-at="2019-11-20T12:39:29Z" finished-at="2019-11-20T12:39:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- com.request.GetCall -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
